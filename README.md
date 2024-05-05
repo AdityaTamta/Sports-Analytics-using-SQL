@@ -32,7 +32,7 @@ https://bit.ly/34SRn3b
  - USE project;
 
 **6. Load the file**
-- LOAD DATA LOCAL INFILE 'C:\\Users\\Aditya\\OneDrive\\Desktop\\Ivy_Data_science\\SQL\\project\\Research_project\\deliveries_all.csv'
+- LOAD DATA LOCAL INFILE 'C:\\Users\\ayush\\OneDrive\\Desktop\\Ivy_Data_science\\SQL\\project\\Research_project\\deliveries_all.csv'
 INTO TABLE deliveries_all
 FIELDS TERMINATED BY ',' ENCLOSED BY '"'
 LINES TERMINATED BY '\r\n' IGNORE 1 ROWS;
